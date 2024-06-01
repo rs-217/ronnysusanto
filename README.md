@@ -1,7 +1,6 @@
 # Hi I'm Ronny!
 
-
-I am a IT Professional with a specialization in Networking that is trying to expand my skillset through code. My Github page will be a showcase of various projects on things that I am currently working on feel free to stay as long as you like :)
+I am an IT professional specializing in Networking, currently expanding my skillset through coding. My GitHub page showcases various projects I'm working on. Feel free to explore and stay as long as you like!
 
 
 ## Let's Connect
@@ -9,9 +8,11 @@ I am a IT Professional with a specialization in Networking that is trying to exp
 
 
 ## Current Certifications
-- **CCNA**
-- **JNCIA - Enterprise **
+- **CCNA** Exp. 12/25
+- **JNCIA - Enterprise ** Exp. 03/27
 
+## Certifications in Progress
+- **JNCIS**
 
 ## Labs
 ### 1. Active Directory Lab
