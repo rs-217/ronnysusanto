@@ -8,8 +8,8 @@ I am an IT professional specializing in Networking, currently expanding my skill
 
 
 ## Current Certifications
-- **CCNA** Exp. 12/25
-- **JNCIA - Enterprise ** Exp. 03/27
+1. **CCNA** Exp. 12/25
+2. **JNCIA - Enterprise ** Exp. 03/27
 
 ## Certifications in Progress
 - **JNCIS**
